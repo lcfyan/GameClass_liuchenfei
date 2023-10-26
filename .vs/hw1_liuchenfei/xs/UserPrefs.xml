@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{5A5A7FFE-947D-A2E0-90E9-0DF6F26D4F2A}|">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4b11b4fd-1073-4170-a839-407d5ddfd4ec" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/MySceneManager.cs">
+    <Files>
+      <File FileName="Assets/script/MySceneManager.cs" Line="28" Column="1" />
+      <File FileName="Assets/script/SceneSwitchCounter.cs" Line="47" Column="2" />
+      <File FileName="Assets/script/SoundManager.cs" Line="32" Column="1" />
+      <File FileName="Assets/script/PlayerManager.cs" Line="21" Column="2" />
+      <File FileName="Assets/script/foodstep.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/HP.cs" Line="14" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="hw1_liuchenfei" expanded="True">
+            <Node name="Assets" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

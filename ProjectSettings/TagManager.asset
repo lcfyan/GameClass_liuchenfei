@@ -8,6 +8,8 @@ TagManager:
   - A
   - Collectible
   - Collectible2
+  - exit
+  - HP
   layers:
   - Default
   - TransparentFX

@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{B2FA6FC8-099A-92A4-E5E9-F7F48AA17CF4}</ProjectGuid>
+    <ProjectGuid>{5A5A7FFE-947D-A2E0-90E9-0DF6F26D4F2A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -58,14 +58,14 @@
     <Analyzer Include="/Applications/Unity/Hub/Editor/2022.2.13f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets/script/HealthManager.cs" />
+    <Compile Include="Assets/script/HP.cs" />
+    <Compile Include="Assets/script/MySceneManager.cs" />
     <Compile Include="Assets/script/foodstep.cs" />
-    <Compile Include="Assets/script/SceneToScene2.cs" />
     <Compile Include="Assets/Mini Simple Characters Demo/Readme/Scripts/Readme.cs" />
-    <Compile Include="Assets/script/PlayerDataManager.cs" />
     <Compile Include="Assets/script/CameraController.cs" />
-    <Compile Include="Assets/script/HealthManager2.cs" />
-    <Compile Include="Assets/script/SceneToScene.cs" />
+    <Compile Include="Assets/script/PlayerManager.cs" />
+    <Compile Include="Assets/script/SceneSwitchCounter.cs" />
+    <Compile Include="Assets/script/SoundManager.cs" />
     <Compile Include="Assets/script/Move.cs" />
   </ItemGroup>
   <ItemGroup>

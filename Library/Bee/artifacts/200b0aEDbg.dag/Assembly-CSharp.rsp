@@ -360,12 +360,12 @@
 "Assets/Mini Simple Characters Demo/Readme/Scripts/Readme.cs"
 "Assets/script/CameraController.cs"
 "Assets/script/foodstep.cs"
-"Assets/script/HealthManager.cs"
-"Assets/script/HealthManager2.cs"
+"Assets/script/HP.cs"
 "Assets/script/Move.cs"
-"Assets/script/PlayerDataManager.cs"
-"Assets/script/SceneToScene.cs"
-"Assets/script/SceneToScene2.cs"
+"Assets/script/MySceneManager.cs"
+"Assets/script/PlayerManager.cs"
+"Assets/script/SceneSwitchCounter.cs"
+"Assets/script/SoundManager.cs"
 -langversion:9.0
 
 /deterministic
