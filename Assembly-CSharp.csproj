@@ -59,13 +59,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets/script/HP.cs" />
-    <Compile Include="Assets/script/MySceneManager.cs" />
+    <Compile Include="Assets/script/Manager/PlayerManager.cs" />
     <Compile Include="Assets/script/foodstep.cs" />
+    <Compile Include="Assets/script/Manager/SoundManager.cs" />
+    <Compile Include="Assets/script/Manager/MySceneManager.cs" />
     <Compile Include="Assets/Mini Simple Characters Demo/Readme/Scripts/Readme.cs" />
     <Compile Include="Assets/script/CameraController.cs" />
-    <Compile Include="Assets/script/PlayerManager.cs" />
     <Compile Include="Assets/script/SceneSwitchCounter.cs" />
-    <Compile Include="Assets/script/SoundManager.cs" />
+    <Compile Include="Assets/script/StateMachine.cs" />
     <Compile Include="Assets/script/Move.cs" />
   </ItemGroup>
   <ItemGroup>

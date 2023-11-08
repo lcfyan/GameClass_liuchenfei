@@ -361,11 +361,12 @@
 "Assets/script/CameraController.cs"
 "Assets/script/foodstep.cs"
 "Assets/script/HP.cs"
+"Assets/script/Manager/MySceneManager.cs"
+"Assets/script/Manager/PlayerManager.cs"
+"Assets/script/Manager/SoundManager.cs"
 "Assets/script/Move.cs"
-"Assets/script/MySceneManager.cs"
-"Assets/script/PlayerManager.cs"
 "Assets/script/SceneSwitchCounter.cs"
-"Assets/script/SoundManager.cs"
+"Assets/script/StateMachine.cs"
 -langversion:9.0
 
 /deterministic
