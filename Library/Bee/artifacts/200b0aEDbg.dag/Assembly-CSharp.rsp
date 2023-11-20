@@ -361,11 +361,16 @@
 "Assets/script/CameraController.cs"
 "Assets/script/foodstep.cs"
 "Assets/script/HP.cs"
+"Assets/script/Inventory.cs"
+"Assets/script/InventoryManager.cs"
+"Assets/script/Item.cs"
+"Assets/script/ItemOnWorld.cs"
 "Assets/script/Manager/MySceneManager.cs"
 "Assets/script/Manager/PlayerManager.cs"
 "Assets/script/Manager/SoundManager.cs"
 "Assets/script/Move.cs"
 "Assets/script/SceneSwitchCounter.cs"
+"Assets/script/slot.cs"
 "Assets/script/StateMachine.cs"
 -langversion:9.0
 

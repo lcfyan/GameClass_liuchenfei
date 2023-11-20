@@ -1,15 +1,10 @@
 ﻿<Properties StartupConfiguration="{5A5A7FFE-947D-A2E0-90E9-0DF6F26D4F2A}|">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ca501fc0-18f5-494e-9a66-399b247dc5f8" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/Manager/PlayerManager.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/Move.cs">
     <Files>
-      <File FileName="Assets/script/StateMachine.cs" Line="77" Column="6" />
-      <File FileName="Assets/script/Manager/PlayerManager.cs" Line="34" Column="1" />
+      <File FileName="Assets/script/StateMachine.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/Manager/PlayerManager.cs" />
+      <File FileName="Assets/script/HP.cs" />
+      <File FileName="Assets/script/Move.cs" Line="29" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,9 +12,7 @@
           <Node name="hw1_liuchenfei" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="script" expanded="True">
-                <Node name="Manager" expanded="True">
-                  <Node name="PlayerManager.cs" selected="True" />
-                </Node>
+                <Node name="Manager" expanded="True" />
               </Node>
             </Node>
           </Node>
@@ -27,4 +20,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4212ad93-cd0a-48bb-b274-d768e26efd7a" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
